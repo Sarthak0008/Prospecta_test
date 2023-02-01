@@ -3,4 +3,4 @@
 Soln:-I would consider for spring security for user authentication and authorization and also check for validations if any.,server.port number,
 Use tokens.to establish identities and then control access to services and resources by using tokens assigned to those identities.  
 Use encryption and signatures using a method like TLS Require signatures to ensure that the right users are decrypting and modifying your data, and no one else.
-there are so many more methods like this
+there are so many more methods like this.
