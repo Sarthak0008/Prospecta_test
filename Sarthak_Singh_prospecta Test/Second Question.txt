@@ -1,0 +1,10 @@
+1.How will you tackle the challenge above?
+
+Soln:- first i will make the following tables(Entities) according to requirement and generate primary key to perform operations using sql or jpql queries.
+
+2. What type of errors you would you check for?
+soln:- I would check for not found exception and not a proper query exception if any error occurs,and also check for validations if any.
+
+3. How might a user break your code?
+soln:- If i should not provide user authentication and authorization using springsecurity he might breach into my system and break my code.
+But now a days so may security features are provided by spring security.
